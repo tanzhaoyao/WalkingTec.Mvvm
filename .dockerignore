@@ -1,0 +1,32 @@
+# node
+**/node_modules
+
+**/.DS_Store
+**/.vscode
+**/.azure
+**/.vs
+**/*.md
+**/*.sh
+**/*.log
+**/publish
+**/Publish
+**/.env
+
+# Project
+**/Bin
+**/bin
+**/Obj
+**/obj
+**/Logs
+**/logs
+
+# Docker
+**/*Dockerfile*
+**/.dockerignore
+**/docker-compose.yml
+**/docker-compose.*.yml
+
+# Git
+**/.git
+**/.gitattributes
+**/.gitignore
